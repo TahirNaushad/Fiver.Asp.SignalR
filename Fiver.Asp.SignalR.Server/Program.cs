@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace Fiver.Asp.SignalR
+namespace Fiver.Asp.SignalR.Server
 {
     public class Program
     {

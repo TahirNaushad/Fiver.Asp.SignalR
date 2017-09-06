@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiver.Asp.SignalR", "Fiver.Asp.SignalR\Fiver.Asp.SignalR.csproj", "{D68F411C-4EDE-43FB-BC7D-1B366DA80BFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiver.Asp.SignalR.Server", "Fiver.Asp.SignalR.Server\Fiver.Asp.SignalR.Server.csproj", "{1A5888D3-0A03-4BE4-A60C-4E0C4B8869EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D68F411C-4EDE-43FB-BC7D-1B366DA80BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D68F411C-4EDE-43FB-BC7D-1B366DA80BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D68F411C-4EDE-43FB-BC7D-1B366DA80BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A5888D3-0A03-4BE4-A60C-4E0C4B8869EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5888D3-0A03-4BE4-A60C-4E0C4B8869EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5888D3-0A03-4BE4-A60C-4E0C4B8869EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5888D3-0A03-4BE4-A60C-4E0C4B8869EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
